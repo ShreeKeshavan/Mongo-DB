@@ -69,3 +69,5 @@ This query will create a new collection consisting of the students who scored ab
 ## Conclusion
 
 #### This project demonstrates how to perform CRUD operations on a telephone directory using MongoDB and Python. You can use this as a starting point for your own projects that involve working with MongoDB in Python. If you have any questions or suggestions, feel free to reach out to me.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
